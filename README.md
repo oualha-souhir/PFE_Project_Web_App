@@ -17,3 +17,9 @@ and type.
 - Monitor real-time energy consumption of the charging session.
 - View their charging history.
 - Recharge their account balance online.
+
+**Prerequisites**:
+- Firmware running on an ESP Wrover kit ( https://github.com/oualha-souhir/PFE_Project_Firmware_code/blob/main/README.md )
+- Microsoft Azure Account
+- Azure IoT Hub
+- Azure Function
